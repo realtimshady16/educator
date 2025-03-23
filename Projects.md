@@ -1,6 +1,10 @@
 Concepts:
 1. Variables, Data types and Operators: Personal Finance Calculator
+- Type annotations
+- Handling types correctly 
 2. Control structures: To-Do list app
+- Edge cases
+- Infinite loops
 3. Strings and string manipulation: Password Generator
 4. Lists, tuples and dictionaries: Recommendation System
 5. Functions, modules and APIs: Weather App
